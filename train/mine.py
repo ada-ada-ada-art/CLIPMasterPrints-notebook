@@ -1,3 +1,6 @@
+import sys
+sys.path.append('/content/CLIPMasterPrints')
+
 import os
 import logging
 import pickle
