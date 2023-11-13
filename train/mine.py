@@ -1,5 +1,5 @@
 import sys
-sys.path.append('/content/CLIPMasterPrints-notebook')
+sys.path.append('/content/CLIPMasterPrints')
 
 import os
 import logging
